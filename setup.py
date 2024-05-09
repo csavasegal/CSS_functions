@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name='CSS_functions',
     version='0.1',
-    packages=['CSS_functions'],
+    packages=find_packages(),
     description='A useful description',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
