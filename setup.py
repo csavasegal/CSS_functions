@@ -8,7 +8,7 @@ setup(
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     author='Clara Sava-Segal',
-    url='https://github.com/yourusername/my_package',
+    url='https://github.com/csavasegal/CSS_functions',
     install_requires=[
         # Any dependencies, e.g., 'requests', 'numpy', etc.
     ]
